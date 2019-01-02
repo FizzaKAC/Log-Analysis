@@ -1,0 +1,19 @@
+vagrant@vagrant:/vagrant$ python log_analysis_fizza_u.py
+Q1-What are the most popular three articles of all time?
+*Article name='Candidate is jerk, alleges rival' and views=338647
+
+*Article name='Bears love berries, alleges bear' and views=253801
+
+*Article name='Bad things gone, say good people' and views=170098
+
+Q2-Who are the most popular article authors of all time?
+*Author Ursula La Multa wrote 4 article(s) and has 507594 views on it/them
+
+*Author Rudolf von Treppenwitz wrote 2 article(s) and has 423457 views on it/them
+
+*Author Anonymous Contributor wrote 1 article(s) and has 170098 views on it/them
+
+*Author Markoff Chaney wrote 1 article(s) and has 84557 views on it/them
+
+Q3-On which days did more than 1% of requests lead to errors?
+*Date=2016-07-17 and percentage=2.3%
